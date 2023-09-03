@@ -1,7 +1,8 @@
 package main
 
-import ("fmt"
-"reflect")
+import (
+	"fmt"
+)
 
 func main() {
 	dayNumber := 4
@@ -24,10 +25,9 @@ func main() {
 	default:
 		fmt.Println("Invalid day number")
 	}
-
+}
 
 //switch expression//
-
 
 func main() {
 	value := 42
@@ -43,4 +43,3 @@ func main() {
 		fmt.Println("Value is of unknown type")
 	}
 }
-                  
