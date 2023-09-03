@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-var val2 init = 100
+var val2 int = 100
 
 func main() {
 	//local: variables which are declared inside the function //
