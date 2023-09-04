@@ -1,4 +1,4 @@
-package main
+/*package main
 
 import "fmt"
 
@@ -9,5 +9,5 @@ func main() {
 	//Global: variable declared outside the fuction //
 	//Package-level//
 	var val = 55
-	fmt.PrintIn(val)
-}
+	fmt.Println(val)
+}*/
