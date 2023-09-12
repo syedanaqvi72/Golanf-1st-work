@@ -1,13 +1,14 @@
-/*package main
+//package main
 
-import "fmt"
+//import "fmt"
 
-var val2 int = 100
+//var val2 int = 100
 
-func main() {
-	//local: variables which are declared inside the function //
-	//Global: variable declared outside the fuction //
-	//Package-level//
-	var val = 55
-	fmt.Println(val)
-}*/
+//func main(){
+
+//local: variables which are declared inside the function //
+//Global: variable declared outside the fuction //
+//Package-level//
+//var val = 55
+//fmt.Println(val)
+//}
