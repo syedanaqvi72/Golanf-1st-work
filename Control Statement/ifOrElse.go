@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func control() {
+func main() {
 	// Declare the student's score
 	score := 60
 
