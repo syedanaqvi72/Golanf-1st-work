@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func main2() {
 	dayNumber := 4
 
 	switch dayNumber {
@@ -30,16 +30,15 @@ func main() {
 //switch expression//
 
 func main() {
-	value := 42
+	//value := 42
 
-	switch value.(type) {
-	case int:
-		fmt.Println("Value is an integer")
-	case float64:
-		fmt.Println("Value is a float")
-	case string:
-		fmt.Println("Value is a string")
-	default:
-		fmt.Println("Value is of unknown type")
-	}
+	//switch value {
+	//case int:
+	//fmt.Println("Value is an integer")
+	//case float64:
+	//fmt.Println("Value is a float")
+	//case string:
+	//fmt.Println("Value is a string")
+	//default:
+	fmt.Println("Value is of unknown type ")
 }

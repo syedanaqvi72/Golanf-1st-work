@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func nest() {
 	// Declare the student's score
 	score := 75
 

@@ -1,8 +1,8 @@
-/*package main
+package main
 
 import "fmt"
 
-func main() {
+func able() {
 	//first method//
 	var a int
 	//declaration
@@ -17,4 +17,4 @@ func main() {
 	fmt.Println(c)
 	fmt.Println(d)
 
-}*/
+}
