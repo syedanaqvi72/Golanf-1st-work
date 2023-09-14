@@ -30,7 +30,5 @@ func main() {
 
 	// Access and print the elements of the array
 	fmt.Println("Array elements:")
-	for i := 0; i < len(numbers); i++ {
-		fmt.Printf("Element %d: %d\n", i, numbers[i])
-	}
+
 }
